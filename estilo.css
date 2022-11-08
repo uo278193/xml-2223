@@ -1,0 +1,37 @@
+/*Especificidad: 001*/
+body {
+  font-family: Tahoma, sans-serif;
+  font-size: 2ex;
+  color: #fff;
+  background-color:#413f3f; 
+  display:flex;
+  flex-flow: column;
+  flex: auto;
+  padding: 1%;
+  border: 1ex solid #7e7e7e;
+  text-align: center;
+
+  }
+/*Especificidad: 001*/
+  header{
+    color: #fff;    
+  background-color:#413f3f; 
+  text-transform: uppercase;
+  padding: 2%; 
+  }
+
+
+/*Especificidad: 001*/
+h1 {
+  
+  text-align: center;     
+  }
+
+
+
+
+
+
+  
+
+
